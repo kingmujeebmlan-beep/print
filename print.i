@@ -4,7 +4,6 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "name": "print.ipynb",
       "authorship_tag": "ABX9TyMIJVP2JXme7PNivnE5x/+p",
       "include_colab_link": true
     },
